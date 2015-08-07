@@ -19,6 +19,8 @@ public class genericFunctions {
 	
 	//Creates WebDriver instance and launches the browser
 	
+	//Testing Git Hub
+	
 	public static WebDriver login() {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://www.localjobserver.com/home.aspx");
